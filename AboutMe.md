@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rory Richards</h1>
-<h3 align="center">I have a passion for software development, gaming and working out</h3>
+<h3 align="center">I have a love for Software Development, Anime, Gaming and Working Out</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theredking-369" alt="theredking-369" /></a> </p>
 
 - I’m currently working on a personalized version of ChatGPT that I have dubbed "KennyGPT" [KennyGPT](https://github.com/theredking-369/KennyGPT)
 
-- Current Learning Path **Next I would like to learn more along the lines of Javascript, CSS and HTML**
+- About me: **I am currently learning C#, .NET Maui, APS.NET, SQL and Azure**
+
+- Current Learning Path: **Next I would like to learn more along the lines of Javascript, CSS and HTML**
 
 - My resume [roryrichards.tiiny.site](roryrichards.tiiny.site)
-
-- About me **I am currently learning C#, .NET Maui, APS.NET, SQL and Azure**
 
 - My email: **richardsrory3.gmail.com**
 
