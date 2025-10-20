@@ -11,7 +11,7 @@
 
 - About me **I am currently learning C#, .NET Maui, APS.NET, SQL and Azure**
 
-- My email **richardsrory3.gmail.com**
+- My email: **richardsrory3.gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
